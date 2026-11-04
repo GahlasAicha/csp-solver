@@ -1,0 +1,11 @@
+# Environnement virtuel Python
+.venv/
+venv/
+env/
+
+# Cache Python
+__pycache__/
+*.py[cod]
+
+# Système
+.DS_Store
